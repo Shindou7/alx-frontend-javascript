@@ -1,0 +1,20 @@
+{
+  "name": "0x03-ES6_data_manipulation",
+  "version": "1.0.0",
+  "description": "ES6 data manipulation project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "shindou",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "babel-jest": "^26.6.1",
+    "eslint": "^7.12.1",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "jest": "^26.6.1"
+  }
+}
